@@ -5,7 +5,7 @@
 Technology is ever-growing. We have started this workshop series with an intention to create an energetic, ambitious, welcoming and uninhibited community of women to up up with rapidly changing tech eco system. Let's decode the technologies together and brainstorm how we can construct a better world with these incredible tools. 
 
 <p align="center">
-<img src="https://github.com/SSaishruthi/SSaishruthi.github.io/raw/master/imges/image.jpg" width="600" height="400">
+<img src="https://github.com/Women-in-Tech-SJSU/Women-in-Tech-SJSU.github.io/raw/master/images/image.jpg" width="600" height="400">
 </p>
 
 # **Upcoming Workshop**
