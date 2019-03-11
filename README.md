@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+#                                            **Welcome to our Tech Series**
+                          
+##            If you want to go fast, go alone. If you want to go far, go together.
 
-You can use the [editor on GitHub](https://github.com/Women-in-Tech-SJSU/Women-in-Tech-SJSU.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Technology is ever-growing. We have started this workshop series with an intention to create an energetic, ambitious, welcoming and uninhibited community of women to up up with rapidly changing tech eco system. Let's decode the technologies together and brainstorm how we can construct a better world with these incredible tools. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="center">
+<img src="https://github.com/SSaishruthi/SSaishruthi.github.io/raw/master/imges/image.jpg" width="600" height="400">
+</p>
 
-### Markdown
+# **Upcoming Workshop**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+|Topic|Presenter| Date | Time | Venue | External Link|
+|-----|---------|:----:|----- | ------ | ---------- |
+|[Visual Recognition with IBM Watson Studio](https://github.com/innovators-lab/Workshop_Description)| [Upkar Lidder](https://www.linkedin.com/in/lidderupk)|18th February, 2019|6 to 8PM| SJSU Student Union|[Meetup](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/events/258741724/?isFirstPublish=true)|
 
-```markdown
-Syntax highlighted code block
+# **Past Events** 
 
-# Header 1
-## Header 2
-### Header 3
+|Topic| Date | Presenter | Slides |
+|------|:----:|-----     | ------|
+|[IBM's Model Asset Exchange](https://developer.ibm.com/exchanges/models/)|Nov 13, 2018|[Saishruthi Swaminathan](https://www.linkedin.com/in/saishruthi-swaminathan)|[MAX Slides](https://github.com/innovators-lab/presentation/raw/master/data_science_Women_in_Tech.pdf) |
+|Introduction to Blockchain and Hyperledger|Nov 13, 2018|[Lennart Frantzell](https://www.linkedin.com/in/lennartfrantzell)||
 
-- Bulleted
-- List
+# **Team**
 
-1. Numbered
-2. List
+|Name|Organization|LinkedIn|Twitter|
+|----|------------|--------|-------|
+|Lisa Jung| IBM |[Profile](https://www.linkedin.com/in/lisa-jung-23304b53)|@LisaHJung|
+|Saishruthi Swaminathan|IBM|[Profile](https://www.linkedin.com/in/saishruthi-swaminathan)|@saishruthis|
+|Akshey Nama|SJSU|[Profile](https://www.linkedin.com/in/aksheynama)||
+|Darpan Goyal|SJSU|[Profile](https://www.linkedin.com/in/darpan-goyal)||
+|Viri Parez|SJSU|[Profile](https://www.linkedin.com/in/viridianaperezm)||
+|Kishore Vegirau|SJSU|[Profile](https://www.linkedin.com/in/kishore-vegirau-6bbb86178)||
 
-**Bold** and _Italic_ and `Code` text
+# _Event feedback from participants_
 
-[Link](url) and ![Image](src)
 ```
+A very welcoming environment
+Great topics and speakers, got to learn about bleeding edge tech used by IBM.
+It included more of working on the problem than just presentation.
+Informative, Interactive, Interesting topics.
+Live demo, organized powerpoint. Workshop content and resources.
+The hands-on experience in the data modeling workshop was very helpful! I loved being able to actually see and control how the REST API works in a web app.
+Try out the image segmentation model, Analysis pipeline and demo of use cases.
+Gave us experience to explore AI technologies, give an idea about data science.
+Participation, Energy and ofcourse the topics!
+Useful opportunities and links provided during the workshop, meeting other women in tech like myself, the food was great.
+I enjoyed the female faces, the food, and all the information and resources provided.
+The lectures are insightful. Follows the trend.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Women-in-Tech-SJSU/Women-in-Tech-SJSU.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
